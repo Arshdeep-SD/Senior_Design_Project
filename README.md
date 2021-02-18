@@ -1,3 +1,2 @@
-# Senior_Design_Project
-Structural Failure Detection System.
+# Structural Failure Detection System.
 The structural failure detection system looks to recognize degradation in structures and/or machinery through the use of signal classification. This is possible in the recognition of the fact that the natural vibrational response of objects changes due to the change in the stiffness of the object. A neural network was be used to perform the necessary signal classification to detect structural abnormalities. The system consisted of an actuator to induce vibrations throughout the structure and sensors to record the vibrational response of the structure. The data collected from the sensors was recorded in order to train the neural network model. The trained neural network was able to distinguish between a reinforced structure and one without any internal supports. 
